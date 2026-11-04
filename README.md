@@ -11,6 +11,6 @@ to demonstrate Git version control and collaborative development.
 
 ## Group Members
 
-- Member 1
-- Member 2
-- Member 3
+- Sean Gabriel S. Santos
+- Emill Robin M. Echate
+- Thaffeia Mharei T. Haavik
