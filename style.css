@@ -18,3 +18,22 @@ main {
     background: white;
     padding: 20px;
 }
+#registration-section form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#registration-section input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#registration-section button {
+    padding: 10px;
+    background-color: #1e3a8a;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
